@@ -1,6 +1,6 @@
 # CNN_recent_examples
-examples were maded inividually short time ago
-working now on YOLO algorithm ( This repo. will be automatically updated )
+###### examples were maded inividually short time ago
+###### working now on YOLO algorithm ( This repo. will be automatically updated )
 ## UNet architecture:
 ### Unet architecture is a semantic segmentation technique made to identify and locate objects 
 ### source: https://arxiv.org/abs/1505.04597
