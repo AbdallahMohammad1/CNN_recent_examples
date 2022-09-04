@@ -1,5 +1,5 @@
 # CNN_recent_examples
-examples maded inividually short time ago
+examples were maded inividually short time ago
 
 ## UNet arch:
 ### Unet Architicture is a semantic segmentation technique made to identify and locate objects 
